@@ -1,4 +1,4 @@
-# Hello. Welcome to my profile
+# Hello
 - I use Python
 - Learn Linux
 ## Tools that I use
